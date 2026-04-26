@@ -103,3 +103,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Parthiv-Solanki&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Parthiv-Solanki/Parthiv-Solanki/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Parthiv-Solanki/Parthiv-Solanki/blob/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Parthiv-Solanki/Parthiv-Solanki/blob/output/github-snake.svg">
+</picture>
